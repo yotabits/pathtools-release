@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <name>pathtools</name>
+  <version>0.1.2</version>
+  <description>File system general utilities</description>
+  <maintainer email="Thomas.Kostas@yujinrobot.com">Thomas Kostas</maintainer>
+  
+  <license>MIT</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>catkin_pip</build_depend>
+
+</package>
